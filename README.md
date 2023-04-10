@@ -1,2 +1,1 @@
-# Jose's User Page
-My favorite programming language is C++
+https://hyperblitzer.github.io/CSE110/
